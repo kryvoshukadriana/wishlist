@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Бездротові навушники",
+        "price": 2500.0,
+        "bought": false
+    },
+    {
+        "title": "Парфуми",
+        "price": 8800.0,
+        "bought": true
+    },
+    {
+        "title": "Book",
+        "price": 1400.0,
+        "bought": false
+    },
+    {
+        "title": "Чобітки",
+        "price": 4402.0,
+        "bought": false
+    }
+]
